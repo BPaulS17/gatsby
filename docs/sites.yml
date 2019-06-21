@@ -6356,3 +6356,18 @@
   built_by: Remotely (Anders Hallundbæk)
   built_by_url: https://remotely.dk
   featured: false
+- title: Executive Realty MN
+  url: https://www.executiverealtymn.com/
+  main_url: https://www.executiverealtymn.com/
+  description: > 
+    Executive Realty is a full-service Real Estate company serving the Minneapolis and St. Paul metro area. From buying and selling to managing your real estate investments, we do it all. 
+  categories:
+    - Real Estate
+    - Property Management
+    - Apartment Management
+    - Buy and Sell
+    - Home
+    - Condos
+    - Townhomes
+    - Foreclosures
+  featured: false
